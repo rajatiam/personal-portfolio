@@ -1,0 +1,8 @@
+{
+  "number": 1,
+  "name": "Personal portfolio",
+  "slug": "personal-portfolio",
+  "level": "Beginner",
+  "description": "Build an Angular portfolio and deploy it with a basic CI workflow.",
+  "status": "planning"
+}
